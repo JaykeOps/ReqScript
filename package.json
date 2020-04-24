@@ -1,0 +1,35 @@
+{
+  "name": "reqscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kusken/ReqScript.git"
+  },
+  "keywords": [
+    "api-test",
+    "test",
+    "http",
+    "request",
+    "postman"
+  ],
+  "author": "jacob.jallow@gmail.com",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Kusken/ReqScript/issues"
+  },
+  "homepage": "https://github.com/Kusken/ReqScript#readme",
+  "devDependencies": {
+    "commitizen": "^4.0.4",
+    "cz-conventional-changelog": "^3.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
